@@ -1,1 +1,1 @@
-this folder contains ML projects im working on
+this folder contains ML projects (past & present).
