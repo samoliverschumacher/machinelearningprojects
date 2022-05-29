@@ -1,4 +1,4 @@
-This project was created to help me test various features of the LSTM builder I developed.
+This project was created to help me test various features of the [LSTM builder I developed.](https://github.com/samoliverschumacher/neuralnets/tree/main/rnngenerator/)
 
 **The problem:** Convert a 3-digit number into its equivalent roman numeral.
 
