@@ -1,4 +1,4 @@
-this folder contains ML projects (past & present).
+This repo contains ML projects
 
 
 ## toyProjects
